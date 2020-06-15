@@ -2,4 +2,16 @@
     <string name="app_name">api</string>
     <string name="berita_nindonesia">Berita Indonesia</string>
     <string name="date">Minggu, 20 Oktober 2020</string>
+    <string name="headline_image">headline</string>
+    <string name="berita_utama">Berita Utama</string>
+    <string name="sports_image">Image Olahraga</string>
+    <string name="olahraga">Olahraga</string>
+    <string name="techno_image">Techno Image</string>
+    <string name="businnes">Bisnis</string>
+    <string name="techno">Teknologi</string>
+    <string name="health_image">image health</string>
+    <string name="health">Kesehatan</string>
+    <string name="image_entertainment">image enterainment</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="txt_bottom">Indonesia News API by Eijun</string>
 </resources>

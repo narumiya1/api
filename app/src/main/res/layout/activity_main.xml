@@ -14,7 +14,7 @@
         android:fitsSystemWindows="true">
 
         <RelativeLayout
-            android:id="@+id/rvAppName"
+            android:id="@+id/rlAppName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="start|center">
@@ -74,7 +74,7 @@
         android:layout_width="match_parent"
         android:layout_height="25dp"
         android:background="@drawable/bg_home_wave"
-        android:orientation="horizontal"></LinearLayout>
+        android:orientation="horizontal"/>
 
     <include layout="@layout/item_main_gid" />
 
@@ -85,7 +85,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerInParent="true"
        android:elevation="5dp"
-        android:text="Indonesia News"
+        android:text="@string/txt_bottom"
         android:textColor="@color/colorAccent"
-        android:textSize="10sp" />
+        android:textSize="12sp" />
 </RelativeLayout>
